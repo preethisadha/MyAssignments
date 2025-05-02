@@ -46,3 +46,8 @@ console.log(tNmae.includes('d'))
 //slice
 //replace, replaceAll
 //includes
+let a="a b c d e "
+let val= a.split( "")
+let b=val.join("")
+console.log(b)
+console.log(val)

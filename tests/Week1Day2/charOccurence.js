@@ -1,6 +1,6 @@
-let browserName= 'Chrome Browser'
+let browserName= 'abaabcc'
 
-let targetCharacter ='r'
+let targetCharacter ='a'
 
 //iterate into each character, find targerCharacter===browsername[index]
 //0 -->C
